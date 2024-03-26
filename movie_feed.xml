@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Movie Feed</title>
+    <link>https://www.mtsdvorana.rs/</link>
+    <description>RSS feed for movies</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 26 Mar 2024 11:31:11 +0000</lastBuildDate>
+    <item>
+      <title>Trener</title>
+      <link>https://www.mtsdvorana.rs/film/trener</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/9366847baaccb.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Biciklisti</title>
+      <link>https://www.mtsdvorana.rs/film/biciklisti</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/93667c3684345.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Podne</title>
+      <link>https://www.mtsdvorana.rs/film/podne-</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/936675565f0fa.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Jutro</title>
+      <link>https://www.mtsdvorana.rs/film/jutro</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/93666defe242f.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>San</title>
+      <link>https://www.mtsdvorana.rs/film/san</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/936666a9e110e.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Devojka</title>
+      <link>https://www.mtsdvorana.rs/film/devojka</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/93665cd575e31.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Lesi: Nova avantura (sinhronizovano)</title>
+      <link>https://www.mtsdvorana.rs/film/lesi-nova-avantura-sinhronizovano</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/8facab56f0dc4.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kuce u operi (sinhronizovano)</title>
+      <link>https://www.mtsdvorana.rs/film/kuce-u-operi-sinhronizovano</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/8fac809f58927.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Jadna stvorenja</title>
+      <link>https://www.mtsdvorana.rs/film/jadna-stvorenja</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/90bff41c6bca8.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Sunce mamino</title>
+      <link>https://www.mtsdvorana.rs/film/sunce-mamino</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/9043975ce7524.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Dina: Drugi Deo</title>
+      <link>https://www.mtsdvorana.rs/film/dina-drugi-deo</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/8ea5ba1ecdc35.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Jorgovani</title>
+      <link>https://www.mtsdvorana.rs/film/jorgovani1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/915909ea0cec8.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Zona interesa</title>
+      <link>https://www.mtsdvorana.rs/film/zona-interesa1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159eaed6e063.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ruski konzul</title>
+      <link>https://www.mtsdvorana.rs/film/ruski-konzul1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159671381961.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kung Fu panda 4 (sinhronizovano)</title>
+      <link>https://www.mtsdvorana.rs/film/kung-fu-panda-4</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159868913efa.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Čelična kandža</title>
+      <link>https://www.mtsdvorana.rs/film/celicna-kandza</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9118f680b8089.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Uspavani psi</title>
+      <link>https://www.mtsdvorana.rs/film/uspavani-psi</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/92a2724f9f319.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Baba Jaga (sinhronizovano)</title>
+      <link>https://www.mtsdvorana.rs/film/baba-jaga-sinhronizovano</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/92a3e419c6274.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>48 Sati i jedan minut</title>
+      <link>https://www.mtsdvorana.rs/film/48-sati-i-jedan-minut</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/92a3acab13eb2.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Artur kralj</title>
+      <link>https://www.mtsdvorana.rs/film/artur-kralj</link>
+      <enclosure url="https://kombank.s3.amazonaws.com/931061e8b7403.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Godzila x Kong: Novo carstvo</title>
+      <link>https://www.mtsdvorana.rs/film/godzila-x-kong-novo-carstvo</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/92a4626e167c3.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ukus ljubavi</title>
+      <link>https://www.mtsdvorana.rs/film/strast-dodena-bufana1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/92a43164815c2.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Za danas toliko</title>
+      <link>https://www.mtsdvorana.rs/film/za-danas-toliko1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9310203e99e06.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Prvo Predskazanje</title>
+      <link>https://www.mtsdvorana.rs/film/prvo-predskazanje</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/93106541b437c.jpg" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
