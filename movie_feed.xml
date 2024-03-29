@@ -6,7 +6,7 @@
     <description>RSS feed for movies</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 11:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 15:12:43 +0000</lastBuildDate>
     <item>
       <title>Trener</title>
       <link>https://www.mtsdvorana.rs/film/trener</link>
@@ -21,21 +21,6 @@
       <title>Podne</title>
       <link>https://www.mtsdvorana.rs/film/podne-</link>
       <enclosure url="https://kombank.s3.amazonaws.com/936675565f0fa.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Jutro</title>
-      <link>https://www.mtsdvorana.rs/film/jutro</link>
-      <enclosure url="https://kombank.s3.amazonaws.com/93666defe242f.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>San</title>
-      <link>https://www.mtsdvorana.rs/film/san</link>
-      <enclosure url="https://kombank.s3.amazonaws.com/936666a9e110e.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Devojka</title>
-      <link>https://www.mtsdvorana.rs/film/devojka</link>
-      <enclosure url="https://kombank.s3.amazonaws.com/93665cd575e31.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Lesi: Nova avantura (sinhronizovano)</title>
@@ -53,11 +38,6 @@
       <enclosure url="https://kombank.s3.amazonaws.com/90bff41c6bca8.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Sunce mamino</title>
-      <link>https://www.mtsdvorana.rs/film/sunce-mamino</link>
-      <enclosure url="https://kombank.s3.amazonaws.com/9043975ce7524.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Dina: Drugi Deo</title>
       <link>https://www.mtsdvorana.rs/film/dina-drugi-deo</link>
       <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/8ea5ba1ecdc35.jpg" length="0" type="image/jpeg"/>
@@ -68,29 +48,19 @@
       <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/915909ea0cec8.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Zona interesa</title>
-      <link>https://www.mtsdvorana.rs/film/zona-interesa1</link>
-      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159eaed6e063.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Ruski konzul</title>
       <link>https://www.mtsdvorana.rs/film/ruski-konzul1</link>
       <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159671381961.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>Zona interesa</title>
+      <link>https://www.mtsdvorana.rs/film/zona-interesa1</link>
+      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159eaed6e063.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Kung Fu panda 4 (sinhronizovano)</title>
       <link>https://www.mtsdvorana.rs/film/kung-fu-panda-4</link>
       <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9159868913efa.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Čelična kandža</title>
-      <link>https://www.mtsdvorana.rs/film/celicna-kandza</link>
-      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/9118f680b8089.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Uspavani psi</title>
-      <link>https://www.mtsdvorana.rs/film/uspavani-psi</link>
-      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/92a2724f9f319.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Baba Jaga (sinhronizovano)</title>
@@ -106,11 +76,6 @@
       <title>Artur kralj</title>
       <link>https://www.mtsdvorana.rs/film/artur-kralj</link>
       <enclosure url="https://kombank.s3.amazonaws.com/931061e8b7403.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Godzila x Kong: Novo carstvo</title>
-      <link>https://www.mtsdvorana.rs/film/godzila-x-kong-novo-carstvo</link>
-      <enclosure url="https://kombank.s3.eu-central-1.amazonaws.com/92a4626e167c3.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Ukus ljubavi</title>
